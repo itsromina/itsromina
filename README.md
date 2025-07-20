@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi there, I'm Romina!
 
-<!--
-**itsromina/itsromina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Engineering student  
+💻 Passionate about Python, Artificial Intelligence 
+🌱 Currently improving my coding skills  
+🚀 I'm also interested in studying abroad, especially in Germany
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Languages & Tools I Use:
+
+- Python 🐍
+- Git & GitHub 🔧
+- PyCharm 🧠
+
+---
+
+## 📌 What I'm Working On:
+
+- 📁 Python mini-projects
+- 🎓 Learning German (A2 level)
+- 🧠 Exploring AI and algorithms
+- 📘 Building a portfolio for university
+
+---
+
+## 📫 Let's Connect!
+
+- Email: **rominamahmoud3821@gmail.com**
+
+---
+
+> *“Keep learning. Keep building. Keep growing.”*
+
+Thanks for visiting my profile! ⭐
